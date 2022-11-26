@@ -20,7 +20,16 @@
         </div>
     </div>
     <div class="right">
-        
+        <div class="right_top">
+            <div class="title">
+                链路带宽
+            </div>
+        </div>
+        <div class="right_bottom">
+            <div class="title">
+                时延
+            </div>
+        </div>
     </div>
   </div>
 </template>
@@ -42,8 +51,16 @@ export default {
 </script>
 
 <style scoped>
+.right_top{
+    height:30%;
+}
+.right_bottom{
+    height:30%;
+    margin-top:2%;
+}
 .right{
-    width:200px;
+    width:45%;
+    margin:2.5% 5%;
 }
 .iframe{
     width:100%;
@@ -75,7 +92,7 @@ export default {
     border-radius: 15px;
 }
 .left{
-    margin:2.5% 2.5%;
+    margin:2.5% 5%;
     width:35%;
     
     

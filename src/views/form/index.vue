@@ -29,6 +29,7 @@
 </div>
       </div>
       <div class="view">
+        <div class="title">拓扑视图</div>
   <iframe class="iframe"  scrolling="no" src="https://blog.csdn.net/zibingdechengbao/article/details/124867039"></iframe>
       </div>
      </div>
@@ -55,6 +56,7 @@
 </div>
       </div>
       <div class="view">
+        <div class="title">拓扑视图</div>
   <iframe class="iframe"  scrolling="no" src="https://blog.csdn.net/zibingdechengbao/article/details/124867039"></iframe>
       </div>
      </div>
@@ -76,6 +78,7 @@
 </el-upload>
     </div>
     <div class="view">
+      <div class="title">拓扑视图</div>
   <iframe class="iframe"  scrolling="no" src="https://blog.csdn.net/zibingdechengbao/article/details/124867039"></iframe>
       </div>
    </div>

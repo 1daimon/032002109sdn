@@ -21,6 +21,7 @@
 </div>
       </div>
       <div class="view">
+        <div class="title">拓扑视图</div>
   <iframe class="iframe"  scrolling="no" src="https://blog.csdn.net/zibingdechengbao/article/details/124867039"></iframe>
       </div>
      </div>
@@ -55,6 +56,7 @@
 </div>
       </div>
       <div class="view">
+        <div class="title">拓扑视图</div>
   <iframe class="iframe"  scrolling="no" src="https://blog.csdn.net/zibingdechengbao/article/details/124867039"></iframe>
       </div>
      </div>
@@ -83,6 +85,7 @@
 </div>
       </div>
       <div class="view">
+        <div class="title">拓扑视图</div>
   <iframe class="iframe"  scrolling="no" src="https://blog.csdn.net/zibingdechengbao/article/details/124867039"></iframe>
       </div>
      </div>
@@ -114,6 +117,7 @@
 </div>
       </div>
       <div class="view">
+        <div class="title">拓扑视图</div>
   <iframe class="iframe"  scrolling="no" src="https://blog.csdn.net/zibingdechengbao/article/details/124867039"></iframe>
       </div>
      </div>
@@ -164,7 +168,9 @@ export default {
 }
 </script>
 
+
 <style lang="scss" scoped>
+
 .tab_content{
   color:white;
 }
@@ -200,7 +206,7 @@ export default {
   background-color: #2BD5D5;
   border-radius:15px 15px 0 0 ;
   padding:10px 0;
-  color:white;
+  color:rgb(0, 0, 0);
 }
 .upload_btns{
   margin:5% auto;;
